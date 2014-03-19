@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><DOC>
+<SENTENCE id="s1">
+<CONTENT>The pencil is on the table .</CONTENT>
+<POSTAGS>The/DT pencil/NN is/VBZ on/IN the/DT table/NN ./.</POSTAGS></SENTENCE>
+<SENTENCE id="s2">
+<CONTENT>I am on Cloud 9 and the earth is beneath me .</CONTENT>
+<POSTAGS>I/PRP am/VBP on/IN Cloud/NNP 9/CD and/CC the/DT earth/NN is/VBZ beneath/NN me/PRP ./.</POSTAGS></SENTENCE>
+<SENTENCE id="s3">
+<CONTENT>The dog is on the footpath .</CONTENT>
+<POSTAGS>The/DT dog/NN is/VBZ on/IN the/DT footpath/NN ./.</POSTAGS></SENTENCE>
+<SENTENCE id="s4">
+<CONTENT>The apples are on the tree</CONTENT>
+<POSTAGS>The/DT apples/NNS are/VBP on/IN the/DT tree/NN</POSTAGS></SENTENCE>
+<SENTENCE id="s5">
+<CONTENT>The sheep are in the farm .</CONTENT>
+<POSTAGS>The/DT sheep/NN are/VBP in/IN the/DT farm/NN ./.</POSTAGS></SENTENCE>
+<SENTENCE id="s6">
+<CONTENT>Milk is in the refrigerator .</CONTENT>
+<POSTAGS>Milk/NNP is/VBZ in/IN the/DT refrigerator/NN ./.</POSTAGS></SENTENCE>
+<SENTENCE id="s7">
+<CONTENT>Clothes are hanging on the wire .</CONTENT>
+<POSTAGS>Clothes/NNS are/VBP hanging/VBG on/IN the/DT wire/NN ./.</POSTAGS></SENTENCE>
+</DOC>
